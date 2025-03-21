@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+src/pykachu/__init__.py
+src/pykachu/helpers.py
+src/pykachu/support.py
+src/pykachu.egg-info/PKG-INFO
+src/pykachu.egg-info/SOURCES.txt
+src/pykachu.egg-info/dependency_links.txt
+src/pykachu.egg-info/top_level.txt
+tests/test.py
