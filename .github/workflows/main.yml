@@ -27,7 +27,7 @@ jobs:
       - run: pip install -e . && pip install -r dev-requirements.txt
       # ADJUST THIS: build your documentation into docs/.
       # We use a custom build script for pdoc itself, ideally you just run `pdoc -o docs/ ...` here.
-      - run: pdoc src/pykachu --logo /assets/pykachu.png --favicon /assets/favicon.ico --docformat=google -o docs
+      - run: pdoc src/pykachu --logo ./assets/pykachu.png --favicon ./assets/favicon.ico --docformat=google -o docs
 
       - uses: actions/upload-pages-artifact@v3
         with:
