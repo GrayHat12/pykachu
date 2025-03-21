@@ -29,7 +29,7 @@ exports:
 
 ## Installation
 
-Install using `pip install pykachu` or `conda install pykachu`.
+Install using `pip install git+https://github.com/GrayHat12/pykachu.git`.
 
 ## A Simple Example
 
