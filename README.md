@@ -1,6 +1,7 @@
 # Pykachu
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GrayHat12/pykachu)
+[![website](https://github.com/GrayHat12/pykachu/actions/workflows/main.yml/badge.svg)](https://github.com/GrayHat12/pykachu/actions/workflows/main.yml)
 
 ## Introduction
 
